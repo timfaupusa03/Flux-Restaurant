@@ -71,6 +71,6 @@ This project is licensed under the MIT License – feel free to use and adapt it
 ---
 
 ### 👤 Author
-Timothy Faupusa
-GitHub: timfaupusa03
+Timothy Faupusa  
+GitHub: timfaupusa03  
 Email: timfaupusa03@gmail.com

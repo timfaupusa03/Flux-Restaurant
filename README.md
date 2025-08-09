@@ -9,8 +9,6 @@ The site uses **HTML, CSS (Grid & Flexbox), and JavaScript** to provide a clean,
 - **Responsive Design** – Optimized for desktop, tablet, and mobile.
 - **Light/Dark Theme Toggle** – Switch themes dynamically for better user experience.
 - **Interactive Navigation** – Smooth transitions and functional menu links.
-- **Hidden Interactive Sections** – Sections like visitor registration pop up via JavaScript.
-- **Custom Validation** – JavaScript form validation for input fields.
 - **RDT Concept Integration** – Menus, spaces, and design choices highlight relational dialectic tensions.
 
 ---
@@ -62,6 +60,8 @@ Simply open index.html in your browser.
 - Add backend support for form submissions.
 - Integrate React or Vue for more dynamic components.
 - Add animations for menu and space transitions.
+- Hidden Interactive Sections – Sections like visitor registration pop up via JavaScript.
+- Custom Validation – JavaScript form validation for input fields.
 
 ---
 

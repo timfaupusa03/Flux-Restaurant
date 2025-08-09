@@ -24,7 +24,6 @@ Flux-Restaurant/
 │── scripts/  
 │ └── script.js # JavaScript functionality  
 │── images/ # Photos & visual assets  
-└── README.md # Project documentation  
 
 ---
 

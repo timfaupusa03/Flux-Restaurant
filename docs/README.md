@@ -15,16 +15,16 @@ The site uses **HTML, CSS (Grid & Flexbox), and JavaScript** to provide a clean,
 
 ## 📂 Project Structure
 Flux-Restaurant/
-│── index.html # Home page
-│── menus.html # Menu page explaining RDT through food
-│── spaces.html # Dining spaces page
-│── history.html # Restaurant background and RDT theory
-│── styles/
-│ └── style.css # Main styling
-│── scripts/
-│ └── script.js # JavaScript functionality
-│── images/ # Photos & visual assets
-└── README.md # Project documentation
+│── index.html # Home page  
+│── menus.html # Menu page explaining RDT through food  
+│── spaces.html # Dining spaces page  
+│── history.html # Restaurant background and RDT theory  
+│── styles/  
+│ └── style.css # Main styling  
+│── scripts/  
+│ └── script.js # JavaScript functionality  
+│── images/ # Photos & visual assets  
+└── README.md # Project documentation  
 
 ---
 

@@ -58,17 +58,19 @@ Simply open index.html in your browser.
 
 ---
 
-📌 Future Improvements
-Add backend support for form submissions.
+### 📌 Future Improvements
+- Add backend support for form submissions.
+- Integrate React or Vue for more dynamic components.
+- Add animations for menu and space transitions.
 
-Integrate React or Vue for more dynamic components.
+---
 
-Add animations for menu and space transitions.
-
-📜 License
+### 📜 License
 This project is licensed under the MIT License – feel free to use and adapt it.
 
-👤 Author
+---
+
+### 👤 Author
 Timothy Faupusa
 GitHub: timfaupusa03
 Email: timfaupusa03@gmail.com

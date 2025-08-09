@@ -51,9 +51,12 @@ Flux uses its **restaurant theme** to explain relational dialectics in an access
 ```bash
 git clone https://github.com/yourusername/flux-restaurant.git
 cd flux-restaurant
+```
 
 ### 2️⃣ Open in Browser
 Simply open index.html in your browser.
+
+---
 
 📌 Future Improvements
 Add backend support for form submissions.
